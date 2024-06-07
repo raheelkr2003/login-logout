@@ -1,0 +1,10 @@
+/* You can add your styles here, or leave it empty */
+body {
+  font-family: Arial, sans-serif;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
